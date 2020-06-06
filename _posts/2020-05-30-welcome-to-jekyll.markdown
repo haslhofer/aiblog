@@ -4,6 +4,9 @@ title:  "Welcome to Gerald Haslhofer's blog!"
 date:   2020-05-30 19:47:08 -0700
 categories: jekyll update
 ---
+
+This blog covers AI with a focus on task automation, and general insights about managing large teams across many geographies.
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
